@@ -1,0 +1,4 @@
+baseURL = 'http://fisher.sh/'
+languageCode = 'en-us'
+title = 'fisher.sh'
+theme = 'ananke'
